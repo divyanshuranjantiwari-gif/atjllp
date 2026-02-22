@@ -10,9 +10,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@fontsource/outfit": "^5.2.8",
+    "@fontsource/space-grotesk": "^5.2.10",
+    "framer-motion": "^12.34.3",
     "lucide-react": "^0.555.0",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
+    "react-intersection-observer": "^10.0.3",
     "react-router-dom": "^7.9.6"
   },
   "devDependencies": {
